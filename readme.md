@@ -134,10 +134,5 @@ Proper login_required usage
 👨‍💻 Author
 
 Developed by: Django Learner 🚀
-Purpose: Educational Project / College Assignment
 
-admin: admin
-pw: admin123
 
-teacher: science
-pw: teacher123
